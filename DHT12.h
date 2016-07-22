@@ -1,7 +1,7 @@
 /*
 	DHT12.h - Library for DHT12 sensor.
 	v0.0.1 Beta
-	Created by Bobodas, July 30,2016.
+	Created by Bobadas, July 30,2016.
 	Released into the public domain.
 */
 #ifndef DHT12_h
