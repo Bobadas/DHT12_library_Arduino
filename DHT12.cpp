@@ -1,7 +1,7 @@
 /*
 	DHT12.cpp - Library for DHT12 sensor.
 	v0.0.1 Beta
-	Created by Bobodas, July 30,2016.
+	Created by Bobadas, July 30,2016.
 	Released into the public domain.
 */
 #include "Arduino.h"
@@ -12,7 +12,7 @@ DHT12::DHT12(byte scale,byte id)
 {
 	if (id==0 || id>126) _id=0x5c;
 	else _id=id;
-	if (scale==0 || scale>4) _scale=CELSIUS;
+	if (scale==0 || scale>3) _scale=CELSIUS;
 	else _scale=scale;
 }
 
