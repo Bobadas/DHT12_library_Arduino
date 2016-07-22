@@ -1,5 +1,5 @@
-# DHT12_library_Arduino
-DHT12 library for Arduino.
+# DHT12 library Arduino
+
 Hi
 
 
